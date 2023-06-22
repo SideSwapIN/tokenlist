@@ -13,7 +13,7 @@
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/weth.svg"
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/weth.png"
     },
     {
       "chainId": 12008,
@@ -21,7 +21,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/usdt.svg"
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/usdt.png"
     },
     {
       "chainId": 12008,
@@ -29,7 +29,7 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/usdc.svg"
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/usdc.png"
     }
   ],
   "version": {
