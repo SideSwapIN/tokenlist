@@ -1,6 +1,6 @@
 {
   "name": "Sideswap",
-  "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/sideswap-interface.svg",
+  "logoURI": "https://d.sideswap.finance/favicon.png",
   "keywords": [
     "sideswap",
     "defi"
@@ -13,7 +13,7 @@
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/weth.png"
     },
     {
       "chainId": 12008,
@@ -21,7 +21,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/usdt.png"
     },
     {
       "chainId": 12008,
@@ -29,7 +29,31 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/usdc.png"
+    },
+    {
+      "chainId": 51178,
+      "address": "0x91753D74B3922B445f45a362e9B98e159A0340E1",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/weth.png"
+    },
+    {
+      "chainId": 51178,
+      "address": "0x80920B48664b45c8FD9C2f4201AcFf6249c72768",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/usdt.png"
+    },
+    {
+      "chainId": 51178,
+      "address": "0x78bE7ab62921ec295a400Ef7414F2a01fFD5476F",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/usdc.png"
     }
   ],
   "version": {
