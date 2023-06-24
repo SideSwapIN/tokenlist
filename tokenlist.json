@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 12008,
-      "address": "0x91753D74B3922B445f45a362e9B98e159A0340E1",
+      "address": "0xBB9f0A3A082Dde7B377c87a932bAFE2C6e78ae6B",
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
@@ -17,7 +17,7 @@
     },
     {
       "chainId": 12008,
-      "address": "0x80920B48664b45c8FD9C2f4201AcFf6249c72768",
+      "address": "0xeC0675462bc7cAb52cbc02cb97fF75714d5499F7",
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
@@ -25,7 +25,7 @@
     },
     {
       "chainId": 12008,
-      "address": "0x78bE7ab62921ec295a400Ef7414F2a01fFD5476F",
+      "address": "0xD087bDEd6Dd18B5AB8812F4DA77e83e68754e960",
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 18,
