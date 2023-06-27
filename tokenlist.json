@@ -56,7 +56,7 @@
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/usdc.png"
     },{
       "chainId": 51178,
-      "address": "0x80920B48664b45c8FD9C2f4201AcFf6249c72768",
+      "address": "0x6de9930CbB5644dAE9617B8D3231d812a82f17CC",
       "name": "GOT",
       "symbol": "GOT",
       "decimals": 18,
@@ -81,6 +81,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
