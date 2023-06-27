@@ -60,7 +60,7 @@
       "name": "GOT",
       "symbol": "GOT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/got.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/got.svg"
     },
     {
       "chainId": 51178,
@@ -68,19 +68,19 @@
       "name": "ERA",
       "symbol": "ERA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/era.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/era.svg"
     },{
       "chainId": 51178,
       "address": "0xf5483be2563cc7870915ed5caff67a30921bcd20",
       "name": "XOX",
       "symbol": "XOX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/xox.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/xox.svg"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
