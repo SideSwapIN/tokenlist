@@ -54,6 +54,28 @@
       "symbol": "USDC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/usdc.png"
+    },{
+      "chainId": 51178,
+      "address": "0x80920B48664b45c8FD9C2f4201AcFf6249c72768",
+      "name": "GOT",
+      "symbol": "GOT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/got.png"
+    },
+    {
+      "chainId": 51178,
+      "address": "0x12caA3F0B451683485546d5fcC3d6503f6435E09",
+      "name": "ERA",
+      "symbol": "ERA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/era.png"
+    },{
+      "chainId": 51178,
+      "address": "0xf5483be2563cc7870915ed5caff67a30921bcd20",
+      "name": "XOX",
+      "symbol": "XOX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/xox.png"
     }
   ],
   "version": {
