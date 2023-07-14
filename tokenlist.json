@@ -86,6 +86,14 @@
       "symbol": "SKILL",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/skill.png"
+    },
+    {
+      "chainId": 51178,
+      "address": "0x9cCF6C4d274Ae7A9ce80e8da93F1783E521D8d48",
+      "name": "READ",
+      "symbol": "READ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/read.png"
     }
   ],
   "version": {
