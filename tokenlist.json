@@ -96,7 +96,7 @@
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/read.png"
     },{
       "chainId": 12020,
-      "address": "0x6187f53e7AC4cfB95ea1c4E906e777d0d2f6763",
+      "address": "0x6187f53e7ac4cfb95ea1c4e906e777d0d2f6763e",
       "name": "OUSDC",
       "symbol": "OUSDC",
       "decimals": 18,
