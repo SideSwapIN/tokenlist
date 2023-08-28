@@ -94,7 +94,28 @@
       "symbol": "READ",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/read.png"
-    }
+    },{
+      "chainId": 12020,
+      "address": "0xAAb8FCD8DD22a5de73550F8e67fF9Ca970d1257E",
+      "name": "OBTC",
+      "symbol": "OBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/btc.svg"
+  },{
+      "chainId": 12020,
+      "address": "0x6187f53e7AC4cfB95ea1c4E906e777d0d2f6763",
+      "name": "OUSDC",
+      "symbol": "OUSDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/usdc.png"
+  },{
+      "chainId": 12020,
+      "address": "0xFefEab21A1CddBAda7c1077FBc1cC92e07B5ce78",
+      "name": "OUSDT",
+      "symbol": "OUSDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/usdt.png"
+  }
   ],
   "version": {
     "major": 1,
