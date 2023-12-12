@@ -13,7 +13,7 @@
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFireTestnet/assets/weth.png"
     },
     {
         "chainId": 43851,
@@ -21,7 +21,7 @@
         "name": "BTC",
         "symbol": "BTC",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/btc.svg"
+        "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFireTestnet/assets/btc.svg"
     },
     {
       "chainId": 43851,
@@ -29,7 +29,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFireTestnet/assets/usdt.png"
     },
     {
       "chainId": 43851,
@@ -37,7 +37,7 @@
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/dai.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFireTestnet/assets/dai.png"
     }
   ],
   "version": {
