@@ -46,14 +46,6 @@
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairTestnet/assets/link.png"
-    },
-    {
-      "chainId": 43851,
-      "address": "0x84c899EDC46af62b87ac3FCE759c6582f325AAB9",
-      "name": "DOGE",
-      "symbol": "DOGE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/blob/feat/ZKFairTestnet/assets/got.svg"
     }
   ],
   "version": {
