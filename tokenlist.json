@@ -53,7 +53,7 @@
       "name": "DOGE",
       "symbol": "DOGE",
       "decimals": 18,
-      "logoURI": "https://github.com/SideSwapIN/tokenlist/blob/feat/ZKFairTestnet/assets/got.svg"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/blob/feat/ZKFairTestnet/assets/got.svg"
     }
   ],
   "version": {
