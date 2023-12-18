@@ -38,14 +38,6 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFireTestnet/assets/dai.png"
-    },
-    {
-      "chainId": 43851,
-      "address": "0x3fef239514E483e52A7717777b780940146611db",
-      "name": "FAIR_test",
-      "symbol": "FAIR",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFireTestnet/assets/dai.png"
     }
   ],
   "version": {
