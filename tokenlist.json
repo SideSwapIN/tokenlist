@@ -18,8 +18,8 @@
     {
         "chainId": 43851,
         "address": "0x813bcb548f99bc081e5efeeaa65e3018befb92ae",
-        "name": "WBTC",
-        "symbol": "WBTC",
+        "name": "BTC",
+        "symbol": "BTC",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/btc.svg"
     },
