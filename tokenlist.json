@@ -9,43 +9,43 @@
   "tokens": [
     {
       "chainId": 43851,
-      "address": "0x6A7c3444E70fBa786e0Ee7880686519a1018e8FC",
-      "name": "WETH",
-      "symbol": "WETH",
+      "address": "0x4b21b980d0Dc7D3C0C6175b0A412694F3A1c7c6b",
+      "name": "ETH",
+      "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairTestnet/assets/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/weth.png"
     },
     {
         "chainId": 43851,
-        "address": "0x29887FcefDE84BBBEebD94e17BdbE4059173B4Ca",
-        "name": "BTC",
-        "symbol": "BTC",
+        "address": "0x813bcb548f99bc081e5efeeaa65e3018befb92ae",
+        "name": "WBTC",
+        "symbol": "WBTC",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairTestnet/assets/btc.svg"
+        "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/btc.svg"
     },
     {
       "chainId": 43851,
-      "address": "0x447B7f4AFaEAD031d6e2049e8764c0c7F6c5FFbf",
+      "address": "0x3f97bf3cd76b5ca9d4a4e9cd8a73c24e32d6c193",
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairTestnet/assets/usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/usdt.png"
     },
     {
       "chainId": 43851,
-      "address": "0x029589F5E7945910BF08f5787577ddb3Db89642f",
+      "address": "0xa9f4eeb30dc48d4ef77310a2108816c80457cf6f",
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairTestnet/assets/dai.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/dai.png"
     },
     {
       "chainId": 43851,
-      "address": "0x190b4cd37e4f03417bb605f53cde7d9221573bdc",
-      "name": "LINK",
-      "symbol": "LINK",
+      "address": "0x1cd3e2a23c45a690a18ed93fd1412543f464158f",
+      "name": "ZKF",
+      "symbol": "ZKF",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairTestnet/assets/link.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/zkf.png"
     }
   ],
   "version": {
