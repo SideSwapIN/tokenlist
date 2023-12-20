@@ -28,7 +28,7 @@
       "address": "0x3f97bf3cd76b5ca9d4a4e9cd8a73c24e32d6c193",
       "name": "USDT",
       "symbol": "USDT",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/usdt.png"
     },
     {
