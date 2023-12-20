@@ -8,7 +8,7 @@
   "timestamp": "2023-08-28T16:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 43851,
+      "chainId": 42766,
       "address": "0x4b21b980d0Dc7D3C0C6175b0A412694F3A1c7c6b",
       "name": "WETH",
       "symbol": "WETH",
@@ -16,7 +16,7 @@
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/weth.png"
     },
     {
-        "chainId": 43851,
+        "chainId": 42766,
         "address": "0x813bcb548f99bc081e5efeeaa65e3018befb92ae",
         "name": "WBTC",
         "symbol": "WBTC",
@@ -24,7 +24,7 @@
         "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/btc.svg"
     },
     {
-      "chainId": 43851,
+      "chainId": 42766,
       "address": "0x3f97bf3cd76b5ca9d4a4e9cd8a73c24e32d6c193",
       "name": "USDT",
       "symbol": "USDT",
@@ -32,7 +32,7 @@
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/usdt.png"
     },
     {
-      "chainId": 43851,
+      "chainId": 42766,
       "address": "0xa9f4eeb30dc48d4ef77310a2108816c80457cf6f",
       "name": "DAI",
       "symbol": "DAI",
@@ -40,7 +40,7 @@
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/dai.png"
     },
     {
-      "chainId": 43851,
+      "chainId": 42766,
       "address": "0x1cd3e2a23c45a690a18ed93fd1412543f464158f",
       "name": "ZKF",
       "symbol": "ZKF",
