@@ -46,6 +46,13 @@
       "symbol": "ZKF",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/zkf.png"
+    },{
+      "chainId": 42766,
+      "address": "0x50bcb6ecf1fddd35d649fb1bc6760dd7aa32b348",
+      "name": "SIDE",
+      "symbol": "SIDE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/side.png"
     }
   ],
   "version": {
