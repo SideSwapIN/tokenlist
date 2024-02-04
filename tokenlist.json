@@ -53,6 +53,14 @@
       "symbol": "SIDE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/side.png"
+    },
+    {
+      "chainId": 42766,
+      "address": "0x373a1d936b4792a93715717855b90880fe806572",
+      "name": "FRS",
+      "symbol": "FRS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/frs.png"
     }
   ],
   "version": {
