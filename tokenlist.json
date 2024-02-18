@@ -61,6 +61,14 @@
       "symbol": "FRS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/frs.png"
+    },
+    {
+      "chainId": 42766,
+      "address": "0x825b4244684d5a07fcef8124d9b21fd868b39654",
+      "name": "HPX",
+      "symbol": "HPX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/hpx.png"
     }
   ],
   "version": {
