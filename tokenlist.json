@@ -69,6 +69,14 @@
       "symbol": "HPX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/hpx.png"
+    },
+    {
+      "chainId": 42766,
+      "address": "0x7E9846eBf2Ee09469f672318f745923b5d38df60",
+      "name": "POWER",
+      "symbol": "POWER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/power.png"
     }
   ],
   "version": {
