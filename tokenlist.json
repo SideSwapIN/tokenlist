@@ -1,87 +1,40 @@
 {
   "name": "Sideswap",
-  "logoURI": "https://d.sideswap.finance/favicon.png",
+  "logoURI": "https://raw.githubusercontent.com/KuririnTrade/Kuririn-Materials/main/logo/favicon.png",
   "keywords": [
     "sideswap",
     "defi"
   ],
-  "timestamp": "2023-08-28T16:38:00.000+00:00",
+  "timestamp": "2024-07-29T08:00:00.000+00:00",
   "tokens": [
     {
-      "chainId": 42766,
+      "chainId": 1802203764,
       "address": "0x4b21b980d0Dc7D3C0C6175b0A412694F3A1c7c6b",
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/weth.png"
     },
     {
-        "chainId": 42766,
+        "chainId": 1802203764,
         "address": "0x813bcb548f99bc081e5efeeaa65e3018befb92ae",
         "name": "WBTC",
         "symbol": "WBTC",
         "decimals": 8,
-        "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/btc.svg"
+        "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/btc.svg"
     },
     {
-      "chainId": 42766,
+      "chainId": 1802203764,
       "address": "0x3f97bf3cd76b5ca9d4a4e9cd8a73c24e32d6c193",
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/usdt.png"
-    },
-    {
-      "chainId": 42766,
-      "address": "0xa9f4eeb30dc48d4ef77310a2108816c80457cf6f",
-      "name": "DAI",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/dai.png"
-    },
-    {
-      "chainId": 42766,
-      "address": "0x1cd3e2a23c45a690a18ed93fd1412543f464158f",
-      "name": "ZKF",
-      "symbol": "ZKF",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/zkf.png"
-    },{
-      "chainId": 42766,
-      "address": "0x50bcb6ecf1fddd35d649fb1bc6760dd7aa32b348",
-      "name": "SIDE",
-      "symbol": "SIDE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/side.png"
-    },
-    {
-      "chainId": 42766,
-      "address": "0x373a1d936b4792a93715717855b90880fe806572",
-      "name": "FRS",
-      "symbol": "FRS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/frs.png"
-    },
-    {
-      "chainId": 42766,
-      "address": "0x825b4244684d5a07fcef8124d9b21fd868b39654",
-      "name": "HPX",
-      "symbol": "HPX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/hpx.png"
-    },
-    {
-      "chainId": 42766,
-      "address": "0x770f030fdbf63ebf1c939de8bcff8943c2c2d454",
-      "name": "FB",
-      "symbol": "FB",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ZKFairMainnet/assets/fb.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/usdt.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 8
+    "patch": 0
   }
 }
