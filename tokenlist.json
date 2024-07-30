@@ -30,6 +30,14 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/usdt.png"
+    },
+    {
+      "chainId": 1802203764,
+      "address": "0x3f97bf3cd76b5ca9d4a4e9cd8a73c24e32d6c193",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/usdc.png"
     }
   ],
   "version": {
