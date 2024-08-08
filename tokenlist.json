@@ -28,7 +28,7 @@
       "address": "0x1bFA66Cb34851B98b5D23CadC554bBB4CbA881f6",
       "name": "USDT.m",
       "symbol": "USDT.m",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/modemaxTestnet/assets/usdt.svg"
     }
   ],
