@@ -28,7 +28,7 @@
       "address": "0x28C9e308AdFF7b1eF8a6013983a1399162CbA4E5",
       "name": "BTC.m",
       "symbol": "BTC.m",
-      "decimals": 16,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/modemaxTestnet/assets/btc.svg"
     }
   ],
