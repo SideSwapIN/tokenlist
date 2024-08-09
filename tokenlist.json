@@ -5,7 +5,7 @@
     "ModeMax",
     "defi"
   ],
-  "timestamp": "2024-08-02T08:00:00.000+00:00",
+  "timestamp": "2024-08-10T08:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 919,
@@ -14,14 +14,6 @@
       "symbol": "ETH.m",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/weth.png"
-    },
-    {
-      "chainId": 919,
-      "address": "0xc14092D39d4B9034b41b2D00581e8b4Cb282611F",
-      "name": "MODE.m",
-      "symbol": "MODE.m",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/modemaxTestnet/assets/mode.svg"
     },
     {
       "chainId": 919,
@@ -35,6 +27,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 4
   }
 }
