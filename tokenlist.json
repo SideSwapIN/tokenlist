@@ -1,40 +1,48 @@
 {
   "name": "ModeMax",
-  "logoURI": "https://raw.githubusercontent.com/KuririnTrade/Kuririn-Materials/main/logo/favicon.png",
+  "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisTestnet/assets/favicon.png",
   "keywords": [
-    "ModeMax",
+    "Artemis",
     "defi"
   ],
-  "timestamp": "2024-08-02T08:00:00.000+00:00",
+  "timestamp": "2024-08-09T08:00:00.000+00:00",
   "tokens": [
     {
-      "chainId": 919,
-      "address": "0x6E0E4A4994e68Cc5D28802cba1dC7EE13b1e9659",
-      "name": "ETH.m",
-      "symbol": "ETH.m",
+      "chainId": 11822,
+      "address": "0x557CEB8739640B02A547a04643089acCB3b88E03",
+      "name": "WART",
+      "symbol": "WART",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisTestnet/assets/art.png"
     },
     {
-      "chainId": 919,
-      "address": "0xc14092D39d4B9034b41b2D00581e8b4Cb282611F",
-      "name": "MODE.m",
-      "symbol": "MODE.m",
+      "chainId": 11822,
+      "address": "0xA022F656412d4f7c277B488f1220138a516970ac",
+      "name": "WETH",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/modemaxTestnet/assets/mode.svg"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisTestnet/assets/weth.png"
     },
     {
-      "chainId": 919,
-      "address": "0x1bFA66Cb34851B98b5D23CadC554bBB4CbA881f6",
-      "name": "USDT.m",
-      "symbol": "USDT.m",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/modemaxTestnet/assets/usdt.png"
+      "chainId": 11822,
+      "address": "0x3d9eA1769E0bA7e9B6F5e9a506C591Bd177A160d",
+      "name": "WBTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisTestnet/assets/btc.png"
+    },
+    {
+      "chainId": 11822,
+      "address": "0x6cDdd437CeD8a9Af4D53Ee51B1645Bbd08F9B702",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisTestnet/assets/usdt.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 0
   }
 }
