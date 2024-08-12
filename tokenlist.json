@@ -29,7 +29,7 @@
       "name": "WBTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisTestnet/assets/btc.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisTestnet/assets/btc.svg"
     },
     {
       "chainId": 11822,
@@ -43,6 +43,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
