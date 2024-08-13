@@ -3,7 +3,8 @@
   "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ModemaxMainnet/assets/favicon.png",
   "keywords": [
     "ModeMax",
-    "defi"
+    "defi",
+    "AMM"
   ],
   "timestamp": "2024-08-09T08:00:00.000+00:00",
   "tokens": [
@@ -78,11 +79,19 @@
       "symbol": "ezETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ModemaxMainnet/assets/ezeth.png"
+    },
+    {
+      "chainId": 34443,
+      "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+      "name": "Wrapped eETH",
+      "symbol": "weETH.Mode",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ModemaxMainnet/assets/weethmode.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   }
 }
