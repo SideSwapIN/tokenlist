@@ -1,5 +1,5 @@
 {
-  "name": "ModeMax",
+  "name": "ModeMaxMainNet",
   "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ModemaxMainnet/assets/favicon.png",
   "keywords": [
     "ModeMax",
@@ -49,19 +49,11 @@
     },
     {
       "chainId": 34443,
-      "address": "0x71ef7EDa2Be775E5A7aa8afD02C45F059833e9d2",
-      "name": "Ionic Wrapped Ether",
-      "symbol": "ionWETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ModemaxMainnet/assets/weth.png"
-    },
-    {
-      "chainId": 34443,
       "address": "0x94812F2eEa03A49869f95e1b5868C6f3206ee3D3",
       "name": "Ionic Tether USD ",
       "symbol": "ionUSDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ModemaxMainnet/assets/usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ModemaxMainnet/assets/ionUSDT.png"
     },
     {
       "chainId": 34443,
@@ -69,7 +61,7 @@
       "name": "Ionic USD Coin",
       "symbol": "ionUSDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ModemaxMainnet/assets/usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ModemaxMainnet/assets/ionUSDC.png"
     },
     {
       "chainId": 34443,
@@ -78,11 +70,19 @@
       "symbol": "MOCHAD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ModemaxMainnet/assets/mochad.png"
+    },
+    {
+      "chainId": 34443,
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ModemaxMainnet/assets/ezeth.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }
