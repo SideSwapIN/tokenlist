@@ -1,6 +1,6 @@
 {
-  "name": "ArtemisTestnet",
-  "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisTestnet/assets/favicon.png",
+  "name": "ArtemisMainnet",
+  "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisMainnet/assets/favicon.png",
   "keywords": [
     "Artemis",
     "defi"
@@ -13,7 +13,7 @@
       "name": "WART",
       "symbol": "WART",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisTestnet/assets/art.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisMainnet/assets/art.png"
     },
     {
       "chainId": 11822,
@@ -21,7 +21,7 @@
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisTestnet/assets/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisMainnet/assets/weth.png"
     },
     {
       "chainId": 11822,
@@ -29,7 +29,7 @@
       "name": "WBTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisTestnet/assets/btc.svg"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisMainnet/assets/btc.svg"
     },
     {
       "chainId": 11822,
@@ -37,7 +37,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisTestnet/assets/usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisMainnet/assets/usdt.png"
     }
   ],
   "version": {
