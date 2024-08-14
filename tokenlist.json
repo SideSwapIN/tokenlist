@@ -9,6 +9,14 @@
   "tokens": [
     {
       "chainId": 11822,
+      "address": "0x557CEB8739640B02A547a04643089acCB3b88E03",
+      "name": "WART",
+      "symbol": "WART",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisTestnet/assets/art.png"
+    },
+    {
+      "chainId": 11822,
       "address": "0xA022F656412d4f7c277B488f1220138a516970ac",
       "name": "WETH",
       "symbol": "WETH",
