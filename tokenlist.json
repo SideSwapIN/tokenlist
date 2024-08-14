@@ -10,6 +10,14 @@
   "tokens": [
     {
       "chainId": 34443,
+      "address": "0xDfc7C877a950e49D2610114102175A06C2e3167a",
+      "name": "Mode",
+      "symbol": "MODE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ModemaxMainnet/assets/mode.svg"
+    },
+    {
+      "chainId": 34443,
       "address": "0x4200000000000000000000000000000000000006",
       "name": "Wrapped Ether",
       "symbol": "WETH",
@@ -23,14 +31,6 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ModemaxMainnet/assets/btc.svg"
-    },
-    {
-      "chainId": 34443,
-      "address": "0xDfc7C877a950e49D2610114102175A06C2e3167a",
-      "name": "Mode",
-      "symbol": "MODE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ModemaxMainnet/assets/mode.svg"
     },
     {
       "chainId": 34443,
