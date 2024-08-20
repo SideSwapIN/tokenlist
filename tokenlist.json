@@ -5,7 +5,7 @@
     "Artemis",
     "defi"
   ],
-  "timestamp": "2024-08-14T08:00:00.000+00:00",
+  "timestamp": "2024-08-20T08:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 11822,
@@ -38,11 +38,19 @@
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisTestnet/assets/usdt.png"
+    },
+    {
+      "chainId": 11822,
+      "address": "0x8209a3BeAa4e957ec038A6921D511fa75DC0bCa8",
+      "name": "ATS",
+      "symbol": "ATS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/ArtemisTestnet/assets/ats.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 8
+    "patch": 9
   }
 }
