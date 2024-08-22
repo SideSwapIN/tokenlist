@@ -5,7 +5,7 @@
     "sideswap",
     "defi"
   ],
-  "timestamp": "2024-07-29T08:00:00.000+00:00",
+  "timestamp": "2024-08-19T08:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 1802203764,
@@ -16,16 +16,8 @@
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/weth.png"
     },
     {
-        "chainId": 1802203764,
-        "address": "0x813bcb548f99bc081e5efeeaa65e3018befb92ae",
-        "name": "WBTC",
-        "symbol": "WBTC",
-        "decimals": 8,
-        "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/btc.svg"
-    },
-    {
       "chainId": 1802203764,
-      "address": "0xb0537C06a5DE57a17376b2Bb57641646028965e6",
+      "address": "0x2BF1004D9e80ca087BD1e089d75bc8c471995aC1",
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
@@ -33,7 +25,7 @@
     },
     {
       "chainId": 1802203764,
-      "address": "0x3Ec72F6efE03e1f6E3e5Ac459d1fA8c86C7198Ae",
+      "address": "0x1B4C0bc8703D3af59322849bE01559fdb920c904",
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
