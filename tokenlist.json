@@ -5,7 +5,7 @@
     "sideswap",
     "defi"
   ],
-  "timestamp": "2024-08-19T08:00:00.000+00:00",
+  "timestamp": "2024-08-24T08:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 1802203764,
@@ -14,6 +14,14 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/weth.png"
+    },
+    {
+      "chainId": 1802203764,
+      "address": "0x7C77c6850b090D329ADC3415A874d8E890F6B8cb",
+      "name": "WBTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/btc.svg"
     },
     {
       "chainId": 1802203764,
@@ -35,6 +43,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
