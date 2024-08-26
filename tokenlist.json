@@ -5,7 +5,7 @@
     "sideswap",
     "defi"
   ],
-  "timestamp": "2024-08-24T08:00:00.000+00:00",
+  "timestamp": "2024-08-26T08:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 1802203764,
@@ -38,11 +38,19 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/usdc.png"
+    },
+    {
+      "chainId": 1802203764,
+      "address": "0x73c53Cc976164C7c8fa57F86bd71c0922680cdF1",
+      "name": "KIN",
+      "symbol": "KIN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/kin.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
