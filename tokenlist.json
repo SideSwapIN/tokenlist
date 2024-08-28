@@ -1,6 +1,6 @@
 {
   "name": "Sideswap",
-  "logoURI": "https://raw.githubusercontent.com/KuririnTrade/Kuririn-Materials/main/logo/favicon.png",
+  "logoURI": "https://github.com/SoniFixyz/SoneFi-Materials/blob/main/logo/favicon.png",
   "keywords": [
     "sideswap",
     "defi"
@@ -8,49 +8,41 @@
   "timestamp": "2024-08-26T08:00:00.000+00:00",
   "tokens": [
     {
-      "chainId": 1802203764,
-      "address": "0x761612F0C8bdf8cF10e6F10045E2Ca7cbffBa8A3",
+      "chainId": 1946,
+      "address": "0x7125e7d95c520c0835b5fcbad72A1C3c55E83269",
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/weth.png"
     },
     {
-      "chainId": 1802203764,
-      "address": "0x7C77c6850b090D329ADC3415A874d8E890F6B8cb",
-      "name": "WBTC",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/btc.svg"
-    },
-    {
-      "chainId": 1802203764,
-      "address": "0x2BF1004D9e80ca087BD1e089d75bc8c471995aC1",
+      "chainId": 1946,
+      "address": "0x95D31f15ec6dd1Dd43A8F4CdAc5694B211d66079",
       "name": "USDT",
       "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/usdt.png"
-    },
-    {
-      "chainId": 1802203764,
-      "address": "0x1B4C0bc8703D3af59322849bE01559fdb920c904",
-      "name": "USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/usdc.png"
-    },
-    {
-      "chainId": 1802203764,
-      "address": "0x73c53Cc976164C7c8fa57F86bd71c0922680cdF1",
-      "name": "KIN",
-      "symbol": "KIN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/kin.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/usdt.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x6b41475c91fd9c20e3Ec565B3d9f83c65356df67",
+      "name": "Soneium Test Token",
+      "symbol": "STT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/no.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xaee8ec4929D4c1969FB036FDe62C79445FBDf67b",
+      "name": "Minato Test Token",
+      "symbol": "MTT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/no.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 0
   }
 }
