@@ -5,7 +5,7 @@
     "sideswap",
     "defi"
   ],
-  "timestamp": "2024-08-26T08:00:00.000+00:00",
+  "timestamp": "2024-08-29T08:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 1946,
@@ -22,6 +22,22 @@
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/usdt.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x97368885747176170506A65C0096b91236b744e7",
+      "name": "USDT.s",
+      "symbol": "USDT.s",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/usdt.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xc2AD0DC1dCb095a49E3F1a2d0c4f63b16B2dC82C",
+      "name": "SoneFi Test Token",
+      "symbol": "SOE.t",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/soe.svg"
     },
     {
       "chainId": 1946,
@@ -43,6 +59,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
