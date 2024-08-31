@@ -5,7 +5,7 @@
     "sideswap",
     "defi"
   ],
-  "timestamp": "2024-08-29T08:00:00.000+00:00",
+  "timestamp": "2024-08-31T08:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 1946,
@@ -62,11 +62,19 @@
       "symbol": "MTT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/no.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xE888191e39898EA183Cd7744273a993F7ed1Ad60",
+      "name": "Soneo",
+      "symbol": "SON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/no.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
