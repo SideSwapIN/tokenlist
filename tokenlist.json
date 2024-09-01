@@ -5,7 +5,7 @@
     "sideswap",
     "defi"
   ],
-  "timestamp": "2024-08-31T08:00:00.000+00:00",
+  "timestamp": "2024-09-01T08:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 1946,
@@ -70,11 +70,19 @@
       "symbol": "SON",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/no.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x054beBfeAc828d165C745b067829d652D3f6c65D",
+      "name": "Final Fantasy",
+      "symbol": "FF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ff.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
