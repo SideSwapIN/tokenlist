@@ -118,11 +118,19 @@
       "symbol": "Xdro",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/xdro.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x8548240082D9BD767767A63071f120AD6F3cF27D",
+      "name": "Lets Go Mainstream",
+      "symbol": "LGM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/lgm.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 9
+    "patch": 10
   }
 }
