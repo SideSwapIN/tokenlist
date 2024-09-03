@@ -110,11 +110,19 @@
       "symbol": "Rbbd",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rbbd.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xDEc7BD51E30Afc61Cb9dE1F939Bf5bBe5D463a0B",
+      "name": "Dronger",
+      "symbol": "Xdro",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/xdro.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 8
+    "patch": 9
   }
 }
