@@ -150,11 +150,19 @@
       "symbol": "BS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/bs.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xd1F1fe30383907B1f6edAa893051f0823D30BE3E",
+      "name": "Unicorn",
+      "symbol": "UNX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/unx.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 12
+    "patch": 13
   }
 }
