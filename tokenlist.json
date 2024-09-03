@@ -94,11 +94,27 @@
       "symbol": "XSONY",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/xsony.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x969949a0636ffaDc341C4fd0B12399aBAb2f933e",
+      "name": "joker cat",
+      "symbol": "jcat",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/jcat.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x6be45B7ac7cd29ECB2A75a9f6f32759af26f8c54",
+      "name": "deRabbid",
+      "symbol": "Rbbd",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rbbd.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 7
+    "patch": 8
   }
 }
