@@ -49,30 +49,6 @@
     },
     {
       "chainId": 1946,
-      "address": "0x6b41475c91fd9c20e3Ec565B3d9f83c65356df67",
-      "name": "Soneium Test Token",
-      "symbol": "STT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/no.png"
-    },
-    {
-      "chainId": 1946,
-      "address": "0xaee8ec4929D4c1969FB036FDe62C79445FBDf67b",
-      "name": "Minato Test Token",
-      "symbol": "MTT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/no.png"
-    },
-    {
-      "chainId": 1946,
-      "address": "0xE888191e39898EA183Cd7744273a993F7ed1Ad60",
-      "name": "Soneo",
-      "symbol": "SON",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/no.png"
-    },
-    {
-      "chainId": 1946,
       "address": "0x054beBfeAc828d165C745b067829d652D3f6c65D",
       "name": "Final Fantasy",
       "symbol": "FF",
@@ -123,6 +99,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 6
+    "patch": 7
   }
 }
