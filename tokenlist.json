@@ -126,11 +126,27 @@
       "symbol": "LGM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/lgm.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x4e06C5d6001260dd6B18A3a39610C20740d34c1f",
+      "name": "GranTurismo",
+      "symbol": "GT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/gt.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x0e3E4D54650BB3f210d6930200c36bA5D71E2647",
+      "name": "Dragoon",
+      "symbol": "DGN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/dgn.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 10
+    "patch": 11
   }
 }
