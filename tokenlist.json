@@ -5,7 +5,7 @@
     "sideswap",
     "defi"
   ],
-  "timestamp": "2024-09-03T08:00:00.000+00:00",
+  "timestamp": "2024-09-03T08:08:00.000+00:00",
   "tokens": [
     {
       "chainId": 1946,
@@ -89,7 +89,7 @@
     },
     {
       "chainId": 1946,
-      "address": "0x151dc3151cFd7162215A5b736796089f67222FAD ",
+      "address": "0x151dc3151cFd7162215A5b736796089f67222FAD",
       "name": "Panda Token",
       "symbol": "PANDA",
       "decimals": 18,
@@ -97,7 +97,7 @@
     },
     {
       "chainId": 1946,
-      "address": "0x026ec6503111217caAc43ea25A4c80078ba1C490 ",
+      "address": "0x026ec6503111217caAc43ea25A4c80078ba1C490",
       "name": "Evil Cat",
       "symbol": "ecat",
       "decimals": 18,
@@ -105,7 +105,7 @@
     },
     {
       "chainId": 1946,
-      "address": "0xbDF6F86F3f8C92E24De924AA0fe5A83cbE065e95 ",
+      "address": "0xbDF6F86F3f8C92E24De924AA0fe5A83cbE065e95",
       "name": "Dogs Token",
       "symbol": "Dogs",
       "decimals": 18,
@@ -113,7 +113,7 @@
     },
     {
       "chainId": 1946,
-      "address": "0x210D368e67f0ae568176cf2941AE1D227a4e0dFe ",
+      "address": "0x210D368e67f0ae568176cf2941AE1D227a4e0dFe",
       "name": "XSONY",
       "symbol": "XSONY",
       "decimals": 18,
@@ -123,6 +123,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 5
+    "patch": 6
   }
 }
