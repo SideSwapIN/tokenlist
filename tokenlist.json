@@ -86,6 +86,14 @@
       "symbol": "PEPE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pepe.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x151dc3151cFd7162215A5b736796089f67222FAD ",
+      "name": "Panda Token",
+      "symbol": "PANDA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/panda.png"
     }
   ],
   "version": {
