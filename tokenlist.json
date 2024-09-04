@@ -238,6 +238,54 @@
       "symbol": "Privacy",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/privacy.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xd014536c0f6cb1399Fc603Ac73379D3b3d3Df7a5",
+      "name": "GRANNY",
+      "symbol": "GRNY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/grny.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x859ECB6662922Cb0CF57C21CD031622EB2781D4f",
+      "name": "MODI",
+      "symbol": "PMOI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pmoi.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x2f6AEfACC2E797417a8d3387F386e1CF66945CA2",
+      "name": "Durov",
+      "symbol": "FREE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/free.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x20AE833C8E72C9a7f3552D566D27f4501fed616B",
+      "name": "wolf",
+      "symbol": "WOLF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/wolf.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x9F27E4bED8dcC18D1EDdf3E180E5CC7D1889D9E7",
+      "name": "Sumber Berkah",
+      "symbol": "SUMBER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sumber.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x8a3041F81C7040e4af7b196D28A3c499CD3f5d37",
+      "name": "CR7",
+      "symbol": "CR7",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cr7.png"
     }
   ],
   "version": {
