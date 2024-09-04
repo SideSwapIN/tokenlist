@@ -286,11 +286,27 @@
       "symbol": "CR7",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cr7.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xC0B1DFdDE522ed37caAdE623be48C54D073Cd2f9",
+      "name": "STORY",
+      "symbol": "STORY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/story.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x8F79021dA9Cc5072f2E50314812dEA5e62bbFd1d",
+      "name": "Minato Golden Spark",
+      "symbol": "MGS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mgs.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 13
+    "patch": 14
   }
 }
