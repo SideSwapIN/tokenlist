@@ -158,6 +158,86 @@
       "symbol": "UNX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/unx.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x5Daf46956d9797CC7dDc3459f8d5f4b49Abce2c4",
+      "name": "Reptil Samurai",
+      "symbol": "REPTIL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/reptil.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x04b67E46Da9cfCd6Ee148A647eB5F6F44B8E466A",
+      "name": "Horimiya",
+      "symbol": "HORI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/hori.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x1C76e2309dBB8AB6Aa0e9453FE0d1D642596B4E8",
+      "name": "Cloud Strife",
+      "symbol": "CLOUD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cloud.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xa23107902E54A0C916f5581bde303D6F6223Df31",
+      "name": "Tifa Lockhart",
+      "symbol": "TIFA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/tifa.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xc0463a4BAAB4cE5E0FBA3cce8b7551A923326616",
+      "name": "Sephiroth",
+      "symbol": "SEPHIROTH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sephiroth.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x0954Bc141cDdD5e2E991A3Df19E9F60109D8127E",
+      "name": "BEBEK",
+      "symbol": "BBK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/bbk.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xbd1cBE8910d098e9DEFac16892b2699e492C9F8F",
+      "name": "SnonicoInu",
+      "symbol": "SONICOINU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/snonicoInu.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x0B4DeE8231DDb2C30160ECC86B35E16557B677f0",
+      "name": "Pokeora",
+      "symbol": "Pokeora",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pokeora.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x62b16B4A1E3B0De836bD22d2a6CB8A24ba114648",
+      "name": "Privacy Respecting Integrated Virtual Asset",
+      "symbol": "PRIVA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/priva.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x2a8029597AEABaa65Fa6F4962aA2dC45Fd1af2BD",
+      "name": "FreeDurov",
+      "symbol": "Privacy",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/privacy.png"
     }
   ],
   "version": {
