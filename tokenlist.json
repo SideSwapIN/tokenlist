@@ -342,11 +342,19 @@
       "symbol": "KONG",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/kong.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x74FF6E42aA8e6cEABAfFd9f9Ed788F008C743e1D",
+      "name": "sorena",
+      "symbol": "SRN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/srn.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 15
+    "patch": 16
   }
 }
