@@ -302,6 +302,30 @@
       "symbol": "MGS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mgs.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xaf6cCd5E9B4976D059FFA1B92024ADE2dB86a3BB",
+      "name": "Trippin`Ape",
+      "symbol": "APE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ape.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xCcC31d8F7412eA0A562191c3bdAb3593ED793572",
+      "name": "Monad",
+      "symbol": "nads",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nads.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x884F1dF1639489E883Ef3178Af1356D1Ecfd5454",
+      "name": "Alpha Cross Chains",
+      "symbol": "ACC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/acc.png"
     }
   ],
   "version": {
