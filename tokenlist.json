@@ -326,11 +326,27 @@
       "symbol": "ACC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/acc.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x4551Ce54E365451ee3EA34A5124F3EaA2a07D55b",
+      "name": "BELUGA",
+      "symbol": "BELUGA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/beluga.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x8713887b5f70168db1f0ab8349480910cca15d4d",
+      "name": "KING KONG",
+      "symbol": "KONG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/kong.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 14
+    "patch": 15
   }
 }
