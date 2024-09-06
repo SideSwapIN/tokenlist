@@ -382,6 +382,14 @@
       "symbol": "PSO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pso.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x31096cfdbA446478AA310A8c55fb7c854c76D51f",
+      "name": "MUSIC",
+      "symbol": "MUS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mus.png"
     }
   ],
   "version": {
