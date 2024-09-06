@@ -358,11 +358,35 @@
       "symbol": "PSO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pso.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x9ec73f6d9312e8518139b71de175aa6e590a1dbb",
+      "name": "TORO",
+      "symbol": "TORO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/toro.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xc74cedbccb8c7ec43700a5df0c84e84ce1b849ac",
+      "name": "RATCHEF",
+      "symbol": "RAT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rat.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x72209F4f60a7C8f66990d5cf3399Ad9aefd465dE",
+      "name": "Playstation one",
+      "symbol": "PSO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pso.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 17
+    "patch": 18
   }
 }
