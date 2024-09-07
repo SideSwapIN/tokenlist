@@ -478,11 +478,19 @@
       "symbol": "BYT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/byt.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x59A6f1b7195020ea4a9A1A19a7633cD3fB0C0C0b",
+      "name": "KABAB COIN",
+      "symbol": "KBB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/kbb.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 22
+    "patch": 23
   }
 }
