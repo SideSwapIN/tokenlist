@@ -398,11 +398,43 @@
       "symbol": "SHR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/shr.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x2e94d1C89916C0a306663e58c22212C5Bc4a317D",
+      "name": "MushRoom Pow",
+      "symbol": "MRP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mrp.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x9A330C495F8dDaE6B2B5807C250b9C3065d446e8",
+      "name": "Kuro",
+      "symbol": "KURO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/kuro.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x28DE0AeA20e9De8aE441400A94B3f8b9512ef00e",
+      "name": "irancoin",
+      "symbol": "iran",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/iran.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x05352420f1bBc0910b8D71308BA283dE61bc7D4f",
+      "name": "Good Joob Coin",
+      "symbol": "GJC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/gjc.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 19
+    "patch": 20
   }
 }
