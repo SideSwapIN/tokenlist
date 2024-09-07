@@ -438,11 +438,19 @@
       "symbol": "CNI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cni.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x0B5EF70c036Fc8Fc69C584a878827e3EDdAEf45A",
+      "name": "Sapi Tempur",
+      "symbol": "SPTMPR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sptmpr.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 21
+    "patch": 22
   }
 }
