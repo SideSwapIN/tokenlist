@@ -446,6 +446,38 @@
       "symbol": "SPTMPR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sptmpr.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x608774c9E675d2E25376De8521B3e1e988C3A810",
+      "name": "SONEDOGS",
+      "symbol": "SDOG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sodg.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xF0526ceA8624246E3b397DFCB06A9D02EDF12AFA",
+      "name": "Sonic",
+      "symbol": "Sonic",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sonic.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xd0D0619bBD586C2710E30CDc2d56C0a7bD077374",
+      "name": "CATS",
+      "symbol": "CATS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cats.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xA2b8523482e715D5Db3c4AB3481C39f984083566",
+      "name": "BYT",
+      "symbol": "BYT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/byt.png"
     }
   ],
   "version": {
