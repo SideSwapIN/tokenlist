@@ -430,11 +430,19 @@
       "symbol": "GJC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/gjc.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x07B37c7ab1c184e8d8Ed9128588BbfA78D87d6e3",
+      "name": "CNistari",
+      "symbol": "CNI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cni.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 20
+    "patch": 21
   }
 }
