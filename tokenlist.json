@@ -598,11 +598,51 @@
       "symbol": "FFVIII",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ffviii.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x8134CE247896eeA66f9Ad98144AcCE05Bd1EF09d",
+      "name": "Moon",
+      "symbol": "MN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mn.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xD0fCEb42024441A6Cd53fc6c3fb95c330D2c6b63",
+      "name": "RDWNMOWOW",
+      "symbol": "RDWNM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rdwnm.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x8dC03433C49bfD1c3DF1eCb25c16856bAE403002",
+      "name": "Milenium Soe",
+      "symbol": "MMS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mms.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x35b036198dcF2a6aAb3Fa498B8d24bB633c31cB5",
+      "name": "TUKONI KOPI",
+      "symbol": "TKN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/tkn.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x6FDf260A7d55A8B92933da6e77c18777bb555557",
+      "name": "Hi token",
+      "symbol": "HI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/hi.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 25
+    "patch": 26
   }
 }
