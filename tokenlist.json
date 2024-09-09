@@ -638,11 +638,99 @@
       "symbol": "HI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/hi.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x52fe56e5D98cd00b462150267A1b6B2e8131D880",
+      "name": "SATANISM",
+      "symbol": "STN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/stn.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xe4ed8dcab3976Fd278f9b7fC5e77C3800e0Fc575",
+      "name": "GoldenEddie",
+      "symbol": "GECoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/gecoin.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xf1C18B9484C5783793ca3FdcAD844298aC837E07",
+      "name": "Kimochi",
+      "symbol": "YAMATE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/yamate.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x6655Dc7783FB6E488DDe906618A4f10F6AD530dc",
+      "name": "Earlyapes",
+      "symbol": "EAPS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/eaps.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x0B10D2Fd9BAa2fab88E9bCd0c15e4550cc5F73fA",
+      "name": "Cute baby",
+      "symbol": "Cby",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cby.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xbae5E1d9881a80Fb811664c73CD0B726661012C9",
+      "name": "Russia",
+      "symbol": "Rus",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rus.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x9d13C95FBf9ea0f4f9d6C8C109d7BeE3B9FDDcd4",
+      "name": "GOAT",
+      "symbol": "GOAT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/goat.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xfD566B4130e0b142819Bb9F9414035822B9a4fBE",
+      "name": "BONE",
+      "symbol": "BONE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/bone.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xC0c828de305C9ecbaD104A7bddb1d69Cb0eAb20c",
+      "name": "KAIZU",
+      "symbol": "KZU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/kzu.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x9d13C95FBf9ea0f4f9d6C8C109d7BeE3B9FDDcd4",
+      "name": "MINABO",
+      "symbol": "MNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mnb.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x96A403CbECA830fb3269bddd747F7b84abEe79CA",
+      "name": "Audrey Hepburn",
+      "symbol": "AudreyCOIN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/audreycoin.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 26
+    "patch": 28
   }
 }
