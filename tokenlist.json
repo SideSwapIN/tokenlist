@@ -486,11 +486,123 @@
       "symbol": "KBB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/kbb.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xaBa7B0e2b19a45c36dea4F8B0D90Ae219F65A296",
+      "name": "DOGI",
+      "symbol": "$dogi",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/dogi.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x8Ad602Ad3edEB6E0206F80E4607339EDdDde2f5c",
+      "name": "Sonifa",
+      "symbol": "Sonifa",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sonifa.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xE832768b4cAc468Fd1B1d382Ce5dc63131805C19",
+      "name": "BACKPACK",
+      "symbol": "BP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/bp.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x6FaF619D188498446fe6F048B5F56F202c7D8467",
+      "name": "Nava",
+      "symbol": "nava",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nava.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x912E9d5540C97C36c5225dec3Fc5E2E2d117D52e",
+      "name": "aguscute",
+      "symbol": "ASE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ase.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xb46B5BF6DfD3bd69476A198bff1331Bd618B89B3",
+      "name": "LAND OF FIRE",
+      "symbol": "LOF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/lof.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xd8777176A9181b57915409A0765511D7463F9BDC",
+      "name": "MargonoINU",
+      "symbol": "MINU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/minu.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xCD6e51963a0402Ecf52Edd6224dB80dA94017898",
+      "name": "YUNO",
+      "symbol": "YUNO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/yuno.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xbe24385e3ff7Fb172DEa72A0f30ec7A6844A3D41",
+      "name": "StoopidCat",
+      "symbol": "SCT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sct.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x80Aa5EED3aEB284FF059324258396326Be7a8Fcf",
+      "name": "PADUKA CATS",
+      "symbol": "PDCATS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pdcats.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xf90B9a94ea0d37bF8F2e270Ec39E7ABda1142711",
+      "name": "MINATO SWAP",
+      "symbol": "MINSWAP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/minswap.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xaBa7B0e2b19a45c36dea4F8B0D90Ae219F65A296",
+      "name": "MINATO SWAP",
+      "symbol": "MINSWAP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/minswap.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x03C482A6707F39b1D16eB4c96B201140077163d5",
+      "name": "MONEY RECEH",
+      "symbol": "RECEH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/receh.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x3d3f1AbeDd0C882C00b055eB8f8C40bb5f2dFb02",
+      "name": "Seifer",
+      "symbol": "FFVIII",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ffviii.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 23
+    "patch": 25
   }
 }
