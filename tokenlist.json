@@ -726,11 +726,76 @@
       "symbol": "AudreyCOIN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/audreycoin.png"
+    },
+    // ==========================
+    {
+      "chainId": 1946,
+      "address": "0xf5f3A7B1d7694091e3DBD8D7B2A4B83B2A36a6E3",
+      "name": "Mame",
+      "symbol": "MAME",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mame.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x3DD4b565Cfd20E852DEDbc236dF677134c4AeA4C",
+      "name": "ASW",
+      "symbol": "ASW",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/asw.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x5837aF83973C66689ee169981184cE695C4a816E",
+      "name": "JESSIE",
+      "symbol": "JESS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/jess.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xF5e78494b1fbA21734a5f166575D292d7Bc9c73D",
+      "name": "pinoti",
+      "symbol": "pino",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pino.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x4615ee2B5708e320cfeF4623813B1595fb33895E",
+      "name": "ALEMINO",
+      "symbol": "AM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/am.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xC55e3a15866c3C3380ac311fdCB2a9f8411C359A",
+      "name": "cowfrog",
+      "symbol": "cof",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cof.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x96A403CbECA830fb3269bddd747F7b84abEe79CA",
+      "name": "Hepburn",
+      "symbol": "AudreyCOIN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/audreycoin.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x9308b30530d481F509ba00FBAfc2d19266B2c48a",
+      "name": "PIZZA",
+      "symbol": "PIZZA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pizza.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 28
+    "patch": 29
   }
 }
