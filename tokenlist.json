@@ -790,11 +790,19 @@
       "symbol": "PIZZA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pizza.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x30791D64186b7b656Ca248a0210644CeF07A9952",
+      "name": "SONYDOG",
+      "symbol": "SONYDOG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sonydog.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 30
+    "patch": 31
   }
 }
