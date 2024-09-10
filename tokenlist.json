@@ -798,11 +798,19 @@
       "symbol": "SONYDOG",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sonydog.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x7Ece7f5A62304a6d7e80A61802aF6515eac34332",
+      "name": "Happy Worm",
+      "symbol": "HWORM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/hworm.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 31
+    "patch": 32
   }
 }
