@@ -5,7 +5,7 @@
     "sideswap",
     "defi"
   ],
-  "timestamp": "2024-09-03T08:08:00.000+00:00",
+  "timestamp": "2024-09-10T08:08:00.000+00:00",
   "tokens": [
     {
       "chainId": 1946,
@@ -727,7 +727,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/audreycoin.png"
     },
-    // ==========================
     {
       "chainId": 1946,
       "address": "0xf5f3A7B1d7694091e3DBD8D7B2A4B83B2A36a6E3",
@@ -796,6 +795,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 29
+    "patch": 30
   }
 }
