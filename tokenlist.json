@@ -806,11 +806,19 @@
       "symbol": "HWORM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/hworm.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x14114E2017ef9d9586688223010e25E3995696E9",
+      "name": "TNMpro",
+      "symbol": "TNMpro",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/tnmpro.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 32
+    "patch": 33
   }
 }
