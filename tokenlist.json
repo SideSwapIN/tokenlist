@@ -17,6 +17,14 @@
     },
     {
       "chainId": 1946,
+      "address": "0x3ad2f5681f202C0057af321b2Cd66761ee8feeaa",
+      "name": "BTC",
+      "symbol": "BTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/btc.png"
+    },
+    {
+      "chainId": 1946,
       "address": "0x95D31f15ec6dd1Dd43A8F4CdAc5694B211d66079",
       "name": "USDT",
       "symbol": "USDT",
@@ -886,6 +894,30 @@
       "symbol": "PTR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ptr.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x0896ba211A3305D9De2AE7E289F3EED981FBf490",
+      "name": "Racing Snail",
+      "symbol": "RSN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rsn.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x303f6DEf457c0922BE1371074d5e82ebaB9Fa400",
+      "name": "MIUMIU",
+      "symbol": "MIU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/miunew.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xbD1e1c211Cf7aE63a75CD2Ebc68C13dA3c97BC76",
+      "name": "Kali-B meme",
+      "symbol": "XBM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/xbm.png"
     }
   ],
   "version": {
