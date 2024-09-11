@@ -33,6 +33,14 @@
     },
     {
       "chainId": 1946,
+      "address": "0xfF0CBFbA43a1Ce2B8d72B2f3121558BcBd4B03a6",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/usdc.png"
+    },
+    {
+      "chainId": 1946,
       "address": "0x97368885747176170506A65C0096b91236b744e7",
       "name": "USDT.s",
       "symbol": "USDT.s",
@@ -918,11 +926,35 @@
       "symbol": "XBM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/xbm.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x7c167140e92841DF39f550D0803689E04d07cf53",
+      "name": "Nafas",
+      "symbol": "Nafas",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nafas.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xaa07F2c470B5f4B5447de538b431482a0ed55EA2",
+      "name": "Coinacci",
+      "symbol": "CNC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cnc.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x88cFEF863Ac774fBCF9DBDDF094f4E342D88b6B4",
+      "name": "shakila uwu",
+      "symbol": "SHA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sha.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 38
+    "patch": 39
   }
 }
