@@ -814,11 +814,75 @@
       "symbol": "TNMpro",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/tnmpro.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x392c6e599e68BC0FD1Fef06316970b7278dB3632",
+      "name": "miumiu",
+      "symbol": "miu",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/miu.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x8D382da0928B517B57ae2E46c05560D9c0EE7Ad0",
+      "name": "Vidol",
+      "symbol": "Vidol",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/vidol.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x4343e93b9D4F4b773bD302Ed7602119042c3C7F9",
+      "name": "SONEY",
+      "symbol": "SONEY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/soney.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x7763ECd649Af198FF176f60073c3015f69aC575C",
+      "name": "bigbang",
+      "symbol": "BIGbang",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/bigbang.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x07Fb63f3EA58B2B976f24257edC174828E7946D0",
+      "name": "Jesse",
+      "symbol": "Pinkman",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pinkman.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x3cCd66739F73702148a3cAC30B22831cFAFEADBF",
+      "name": "Eugene Krabs",
+      "symbol": "KRABS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/krabs.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xe551a4D5D0143249B6Bbf02298535E5dA63D4cef",
+      "name": "forest",
+      "symbol": "FST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/fst.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x894115f5fa1b777C1863e3899562896862d2e395",
+      "name": "CHASE",
+      "symbol": "CHASE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/chase.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 33
+    "patch": 35
   }
 }
