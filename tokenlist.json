@@ -878,11 +878,19 @@
       "symbol": "CHASE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/chase.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x9C9C76403b92019F5faF2C948aB5C25ab21AfFBe",
+      "name": "salam petir",
+      "symbol": "PTR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ptr.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 35
+    "patch": 36
   }
 }
