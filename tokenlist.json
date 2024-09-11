@@ -950,11 +950,43 @@
       "symbol": "SHA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sha.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x2D3eaE0C6D926379d21Bd735da95eFaEC026c14B",
+      "name": "Careful",
+      "symbol": "CRFL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/crfl.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xD897302E2d3e7Ae81711EAaB8b6C219872caec1a",
+      "name": "NVNMD",
+      "symbol": "NVNMD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nvnmd.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x15790c289A47Aefbd3101b725Ba4d92e7b819F9A",
+      "name": "mardin",
+      "symbol": "MAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mar.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xaaD8fF57861a30E855500571D8025F630F71d0b9",
+      "name": "ako",
+      "symbol": "ako",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ako.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 40
+    "patch": 41
   }
 }
