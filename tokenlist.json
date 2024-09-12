@@ -1078,11 +1078,107 @@
       "symbol": "NAH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nah.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xEA32fB669b76591e9760CF7d324f9cF1A6aDcf77",
+      "name": "FREEDOM",
+      "symbol": "FDM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/fdm.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xE8574322D22f7a1151E03c45a3933B874473d03d",
+      "name": "Nun",
+      "symbol": "NUN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nun.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x858F3730a56Ec02cF8Bb147D5327fC62E3BA9aE7",
+      "name": "Red",
+      "symbol": "RED",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/red.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xBFFf97bdb3cb2C4026611a03d62483eaB708898F",
+      "name": "AMSony",
+      "symbol": "ASY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/asy.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xA612dF2cd40f31AAFf4CA64Fa8E5d44A39120ddC",
+      "name": "cryptodrop2",
+      "symbol": "crpd2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/crpd2.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x9182611115d6d2903f637713C08E282Ce2d609BF",
+      "name": "IcyBerries",
+      "symbol": "ICB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/icb.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x8E92cb2e7751fcE0966f3D68A934D75c700EE709",
+      "name": "Cat In Hat",
+      "symbol": "CATINHAT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/catinhat.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xe69a4AD32FEb1c101027b66e1aF994867a6Fd4Ee",
+      "name": "MILK",
+      "symbol": "MILK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/milk.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xCEfbD76f3346FE7A088fAb50f3b89d058f4C1594",
+      "name": "Freedom",
+      "symbol": "FREEDOM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/freedom.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xd9398754D6BA04e01F21FdA70df6331432Ea3Bf0",
+      "name": "Roj",
+      "symbol": "Roj",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/roj.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x1774aF52eb695dE1D8E1B724bBDD1E3D3ABb89FA",
+      "name": "MULYONO ASU",
+      "symbol": "MASU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/masu.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x52518Ca86AEc8CF34c3FF108d7b9Ee5A861fE8d8",
+      "name": "MARIO",
+      "symbol": "MARIO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mario.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 43
+    "patch": 45
   }
 }
