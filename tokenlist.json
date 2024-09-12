@@ -17,6 +17,14 @@
     },
     {
       "chainId": 1946,
+      "address": "0x0AC1CC398342Aab9f8fFE43dD578B2dF59ceEa5E",
+      "name": "WETH.s",
+      "symbol": "WETH.s",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/weth.png"
+    },
+    {
+      "chainId": 1946,
       "address": "0x3ad2f5681f202C0057af321b2Cd66761ee8feeaa",
       "name": "BTC",
       "symbol": "BTC",
@@ -1075,6 +1083,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 42
+    "patch": 43
   }
 }
