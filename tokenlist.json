@@ -982,11 +982,99 @@
       "symbol": "ako",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ako.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x5a898E8cd25947d4B689c51C7f2843Fb9a7A7982",
+      "name": "Skull chain",
+      "symbol": "Skull",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/skull.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x7F42552CEe1C8911AC4B707BbC72fCaa0c9a130a",
+      "name": "AURA",
+      "symbol": "AUR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/aur.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xD85b4E8B388B9aB35169d819bc005d40C204d525",
+      "name": "indomaret",
+      "symbol": "IDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/idt.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xc40EE1b0bf9063eAf6b61cdB21d4fC1843c79B81",
+      "name": "RareSats",
+      "symbol": "RST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rst.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xaCd90296E5736F237497f6D8831E6a45A4728f93",
+      "name": "OG Degen",
+      "symbol": "OGD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ogd.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xaBA0C54E052a299Edcbf88515974D168356581A4",
+      "name": "Interdimensional",
+      "symbol": "ITDl",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/itdl.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x9785f66A29107fEF9224de7e4106E8D328C8025F",
+      "name": "Woma Life Freedom",
+      "symbol": "WomamLifeFreedom",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/womamlifefreedom.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x7ae0240a53e8Ff1eF41d7cD5B708E2a5C3f39253",
+      "name": "OWI",
+      "symbol": "King Jav",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/king_jav.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xdB11F15FD077423b39ce6d181820d71Fea3E662A",
+      "name": "Drag",
+      "symbol": "Drag",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/drag.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x9e9CC139ba7ba003012f37103685035241eFBb24",
+      "name": "VAIO",
+      "symbol": "VAIO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/vaio.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x9bD2E5037B166d27fe3cc7d6732Ca653182113fC",
+      "name": "NAHA",
+      "symbol": "NAH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nah.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 41
+    "patch": 42
   }
 }
