@@ -1254,11 +1254,43 @@
       "symbol": "pizza",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pizza1.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xAb4bc3e726D1Bb21e5678cdeeA839A366864a867",
+      "name": "Nurse",
+      "symbol": "NURSE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nurse.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x5CaD83416C886F0D105F8230d60ae538C5EE9C93",
+      "name": "Fufufafa rakabuming",
+      "symbol": "fufufafa",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/fufufafa.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x655b06Ee562B2bF400D69E62Bd215E6345b21177",
+      "name": "Love for all",
+      "symbol": "LOVE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/love.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xDb68439d08851984eb9215e7c5b2543B7e599E43",
+      "name": "Gemz",
+      "symbol": "GEMZ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/gemz.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 48
+    "patch": 49
   }
 }
