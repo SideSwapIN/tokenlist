@@ -65,14 +65,6 @@
     },
     {
       "chainId": 1946,
-      "address": "0x6D2AcFBe7deBc720B32497AbD7dcCABF1591fB5D",
-      "name": "SOE",
-      "symbol": "SOE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/soe.svg"
-    },
-    {
-      "chainId": 1946,
       "address": "0x5bD7A9D2328EFF28ba3261dD81CB3f4e4FDF221e",
       "name": "SOE",
       "symbol": "SOE",
@@ -1267,6 +1259,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 46
+    "patch": 48
   }
 }
