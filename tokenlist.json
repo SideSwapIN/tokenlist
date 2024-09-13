@@ -73,6 +73,14 @@
     },
     {
       "chainId": 1946,
+      "address": "0x5bD7A9D2328EFF28ba3261dD81CB3f4e4FDF221e",
+      "name": "SOE",
+      "symbol": "SOE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/soe.svg"
+    },
+    {
+      "chainId": 1946,
       "address": "0x054beBfeAc828d165C745b067829d652D3f6c65D",
       "name": "Final Fantasy",
       "symbol": "FF",
@@ -1174,11 +1182,91 @@
       "symbol": "MARIO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mario.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x92b3D17b44f32465df4C0CAadcD9444299cE908E",
+      "name": "REBIRTH",
+      "symbol": "REBIRTH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rebirth.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x74706a0D6e6B71914FA4cfDFB4B3df77Ddd9ce8e",
+      "name": "BitQueen",
+      "symbol": "BTQ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/btq.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x802aba14f283D541908aFf479225f095b8C69b8E",
+      "name": "einstenn",
+      "symbol": "estn",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/estn.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x738F34F93C7274C095Fbf6B197B6Eb9871a914AF",
+      "name": "Nether Soul",
+      "symbol": "NETHER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nether.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x30F0aE99Bba66a0837047486ACF3e100d75e2Da9",
+      "name": "KEKE",
+      "symbol": "KEKE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/keke.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x2d99437D9E816C0CB8966bC4B1fd8aEE359C7DD2",
+      "name": "Sigma cat",
+      "symbol": "SIGMACAT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sigmacat.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x11c0CaaE47548F0cb64433C6a33d5cE6e93459C1",
+      "name": "Jembot",
+      "symbol": "JMBT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/jmbt.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x8b3E6676b9C84affa4D7bcc31924B10235F33244",
+      "name": "AWOOOO",
+      "symbol": "AWO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/awo.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x5Ec0652B880665087Fcd7eD1c41531EC388102f0",
+      "name": "GIW",
+      "symbol": "$GIW",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/gim.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xA2bCBD7981623a84aB5EEAD8477B788105A0e80e",
+      "name": "Pizza",
+      "symbol": "pizza",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pizza1.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 45
+    "patch": 46
   }
 }
