@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 1946,
-      "address": "0x7125e7d95c520c0835b5fcbad72A1C3c55E83269",
+      "address": "0x4200000000000000000000000000000000000006",
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
@@ -1342,11 +1342,19 @@
       "symbol": "SDRG",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sdrg.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x1bA3b4E0A169052feb637fe9c355cC1D3ae50F27",
+      "name": "Pixiecles",
+      "symbol": "PIXIE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pixie.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 50
+    "patch": 51
   }
 }
