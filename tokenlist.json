@@ -1286,11 +1286,67 @@
       "symbol": "GEMZ",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/gemz.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xfa9F5ca6b822182a1874cE89eB14bbb14fd731BC",
+      "name": "man",
+      "symbol": "man",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/man.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x7A5697C3011B9B8B2623E08cc6Adc18c82e40DC1",
+      "name": "IMposter",
+      "symbol": "MPSTR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mpstr.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xA2288F211870Df445117448B77276701F8e03475",
+      "name": "Among US Token",
+      "symbol": "AMUGUS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/amugus.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x520f741b36BF2dec8B5073fC7dfB53e54F2b9A07",
+      "name": "dogs saya",
+      "symbol": "ajg",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ajg.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xDd8e37B3529780B1142fD2258A3a108cf3078Dba",
+      "name": "FaPe",
+      "symbol": "FaPe",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/fape.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x6f1f12dd9c5A436a0f1334b9B26e7896c1Eed20B",
+      "name": "Cat Gang",
+      "symbol": "CAG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cag.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x81244D8AB1f114C4B71F1CFa01cF0B408aB59286",
+      "name": "Snapdragon",
+      "symbol": "SDRG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sdrg.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 49
+    "patch": 50
   }
 }
