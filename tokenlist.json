@@ -1350,11 +1350,43 @@
       "symbol": "PIXIE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pixie.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xdB4Aa5878300A2459ecD0BD3126aE18C75c68F5A",
+      "name": "Hiraishin",
+      "symbol": "HRS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/hrs.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x36844782C88416a5638bdd66a6cF095E0d1F5366",
+      "name": "amoozesh",
+      "symbol": "azh",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/azh.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x6D10B0Ce4fc4CB468cA7e1B1f3B556C00a7d0c08",
+      "name": "BAD MOTHER FUCKER",
+      "symbol": "BMF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/bmf.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x0249e0c93c420ffffFe0B82554eEdbdcdBa53919",
+      "name": "Fren Soneium",
+      "symbol": "Frens",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/frens.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 51
+    "patch": 52
   }
 }
