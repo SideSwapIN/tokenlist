@@ -1382,11 +1382,123 @@
       "symbol": "Frens",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/frens.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xE7e7bBbDdDDEd705c4D0A08a598D2E083613B02D",
+      "name": "Mimonosuke",
+      "symbol": "MIMO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mimo.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xceDC4dD6808C05289fF02f5816c718113731Df9a",
+      "name": "GRU Finance",
+      "symbol": "GRU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/gru.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x6c1B52Ac86577803Ea098137cF2D80155525d74a",
+      "name": "Pepe Trump",
+      "symbol": "PTRUMP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ptrump.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xa0bf0EEA63Eedc089c63C9aF85b743D3CBF2c71a",
+      "name": "$RATS",
+      "symbol": "RATS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rats.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x589cDC08c7C1F9d51b4158A949Da666f8734CE0c",
+      "name": "Abstract",
+      "symbol": "ABS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/abs.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x3C5554D2158C8904A61c58b9897e0677726b47e9",
+      "name": "BERACHAIN",
+      "symbol": "BERA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/bera.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xdE36a580ea86468b6848F81ED95e39B75eD4e64C",
+      "name": "Shinobi Inu",
+      "symbol": "SHINU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/shinu.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x1a261fef1b5B0cc615A9172C41D44Dca40440E0A",
+      "name": "AK",
+      "symbol": "ASKII",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/askii.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xbFa4cd036983ea3EA8fA77cAA2F32efc680eb295",
+      "name": "Sonefi Cat",
+      "symbol": "SCAT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/scat.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x57FCB6A5559753075b80FA3157EDEeF494F93264",
+      "name": "Jembudut",
+      "symbol": "JMBD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/jmbd.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x4BcA6e287F292f1041d7A510EDc89878750ABEbc",
+      "name": "NCH coin",
+      "symbol": "NCHC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nchc.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x8877eD46542Bd728a42440c3fb7cE33537BF76d4",
+      "name": "SpacyDino",
+      "symbol": "spacy",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/spacy.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x0FED220acDed4A1DE05139fD0444B7e52C06B435",
+      "name": "MANTA",
+      "symbol": "MANTA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/manta.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x79158700CCaf1633D4dc7cE974A90C8f94f769E1",
+      "name": "ccc",
+      "symbol": "ccc",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ccc.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 52
+    "patch": 53
   }
 }
