@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 1946,
-      "address": "0x7125e7d95c520c0835b5fcbad72A1C3c55E83269",
+      "address": "0x4200000000000000000000000000000000000006",
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
@@ -1499,6 +1499,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 55
+    "patch": 56
   }
 }
