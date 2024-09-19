@@ -13,6 +13,7 @@
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
+      "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/weth.png"
     },
     {
@@ -21,6 +22,7 @@
       "name": "WETH.s",
       "symbol": "WETH.s",
       "decimals": 18,
+      "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/weth.png"
     },
     {
@@ -29,6 +31,7 @@
       "name": "BTC",
       "symbol": "BTC",
       "decimals": 18,
+      "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/btc.png"
     },
     {
@@ -37,6 +40,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
+      "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/usdt.png"
     },
     {
@@ -45,6 +49,7 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
+      "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/usdc.png"
     },
     {
@@ -53,6 +58,7 @@
       "name": "USDT.s",
       "symbol": "USDT.s",
       "decimals": 6,
+      "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/usdt.png"
     },
     {
@@ -69,6 +75,7 @@
       "name": "SOE",
       "symbol": "SOE",
       "decimals": 18,
+      "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/soe.svg"
     },
     {
@@ -1499,6 +1506,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 56
+    "patch": 58
   }
 }
