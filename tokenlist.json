@@ -75,7 +75,7 @@
       "name": "SOE",
       "symbol": "SOE",
       "decimals": 18,
-      "tag": "Top",
+      "tag": "DeFi",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/soe.svg"
     },
     {
@@ -84,6 +84,7 @@
       "name": "Final Fantasy",
       "symbol": "FF",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ff.png"
     },
     {
@@ -92,6 +93,7 @@
       "name": "PEPE ON MINATO",
       "symbol": "PEPE",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pepe.png"
     },
     {
@@ -100,6 +102,7 @@
       "name": "Panda Token",
       "symbol": "PANDA",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/panda.png"
     },
     {
@@ -108,6 +111,7 @@
       "name": "Evil Cat",
       "symbol": "ecat",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cat.png"
     },
     {
@@ -116,6 +120,7 @@
       "name": "Dogs Token",
       "symbol": "Dogs",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/dog.png"
     },
     {
@@ -124,6 +129,7 @@
       "name": "XSONY",
       "symbol": "XSONY",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/xsony.png"
     },
     {
@@ -132,6 +138,7 @@
       "name": "joker cat",
       "symbol": "jcat",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/jcat.png"
     },
     {
@@ -140,6 +147,7 @@
       "name": "deRabbid",
       "symbol": "Rbbd",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rbbd.png"
     },
     {
@@ -148,6 +156,7 @@
       "name": "Dronger",
       "symbol": "Xdro",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/xdro.png"
     },
     {
@@ -156,6 +165,7 @@
       "name": "Lets Go Mainstream",
       "symbol": "LGM",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/lgm.png"
     },
     {
@@ -164,6 +174,7 @@
       "name": "GranTurismo",
       "symbol": "GT",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/gt.png"
     },
     {
@@ -172,6 +183,7 @@
       "name": "Dragoon",
       "symbol": "DGN",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/dgn.png"
     },
     {
@@ -180,6 +192,7 @@
       "name": "BitSony",
       "symbol": "BS",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/bs.png"
     },
     {
@@ -188,6 +201,7 @@
       "name": "Unicorn",
       "symbol": "UNX",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/unx.png"
     },
     {
@@ -196,6 +210,7 @@
       "name": "Reptil Samurai",
       "symbol": "REPTIL",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/reptil.png"
     },
     {
@@ -204,6 +219,7 @@
       "name": "Horimiya",
       "symbol": "HORI",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/hori.png"
     },
     {
@@ -212,6 +228,7 @@
       "name": "Cloud Strife",
       "symbol": "CLOUD",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cloud.png"
     },
     {
@@ -220,6 +237,7 @@
       "name": "Tifa Lockhart",
       "symbol": "TIFA",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/tifa.png"
     },
     {
@@ -228,6 +246,7 @@
       "name": "Sephiroth",
       "symbol": "SEPHIROTH",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sephiroth.png"
     },
     {
@@ -236,6 +255,7 @@
       "name": "BEBEK",
       "symbol": "BBK",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/bbk.png"
     },
     {
@@ -244,6 +264,7 @@
       "name": "SnonicoInu",
       "symbol": "SONICOINU",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/snonicoInu.png"
     },
     {
@@ -252,6 +273,7 @@
       "name": "Pokeora",
       "symbol": "Pokeora",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pokeora.png"
     },
     {
@@ -260,6 +282,7 @@
       "name": "Privacy Respecting Integrated Virtual Asset",
       "symbol": "PRIVA",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/priva.png"
     },
     {
@@ -268,6 +291,7 @@
       "name": "FreeDurov",
       "symbol": "Privacy",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/privacy.png"
     },
     {
@@ -276,6 +300,7 @@
       "name": "GRANNY",
       "symbol": "GRNY",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/grny.png"
     },
     {
@@ -284,6 +309,7 @@
       "name": "MODI",
       "symbol": "PMOI",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pmoi.png"
     },
     {
@@ -292,6 +318,7 @@
       "name": "Durov",
       "symbol": "FREE",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/free.png"
     },
     {
@@ -300,6 +327,7 @@
       "name": "wolf",
       "symbol": "WOLF",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/wolf.png"
     },
     {
@@ -308,6 +336,7 @@
       "name": "Sumber Berkah",
       "symbol": "SUMBER",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sumber.png"
     },
     {
@@ -316,6 +345,7 @@
       "name": "CR7",
       "symbol": "CR7",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cr7.png"
     },
     {
@@ -324,6 +354,7 @@
       "name": "STORY",
       "symbol": "STORY",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/story.png"
     },
     {
@@ -332,6 +363,7 @@
       "name": "Minato Golden Spark",
       "symbol": "MGS",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mgs.png"
     },
     {
@@ -340,6 +372,7 @@
       "name": "Trippin`Ape",
       "symbol": "APE",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ape.png"
     },
     {
@@ -348,6 +381,7 @@
       "name": "Monad",
       "symbol": "nads",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nads.png"
     },
     {
@@ -356,6 +390,7 @@
       "name": "Alpha Cross Chains",
       "symbol": "ACC",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/acc.png"
     },
     {
@@ -364,6 +399,7 @@
       "name": "BELUGA",
       "symbol": "BELUGA",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/beluga.png"
     },
     {
@@ -372,6 +408,7 @@
       "name": "KING KONG",
       "symbol": "KONG",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/kong.png"
     },
     {
@@ -380,6 +417,7 @@
       "name": "sorena",
       "symbol": "SRN",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/srn.png"
     },
     {
@@ -388,6 +426,7 @@
       "name": "Playstation one",
       "symbol": "PSO",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pso.png"
     },
     {
@@ -396,6 +435,7 @@
       "name": "TORO",
       "symbol": "TORO",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/toro.png"
     },
     {
@@ -404,6 +444,7 @@
       "name": "RATCHEF",
       "symbol": "RAT",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rat.png"
     },
     {
@@ -412,6 +453,7 @@
       "name": "Playstation one",
       "symbol": "PSO",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pso.png"
     },
     {
@@ -420,6 +462,7 @@
       "name": "MUSIC",
       "symbol": "MUS",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mus.png"
     },
     {
@@ -428,6 +471,7 @@
       "name": "SHRcoin",
       "symbol": "SHR",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/shr.png"
     },
     {
@@ -436,6 +480,7 @@
       "name": "MushRoom Pow",
       "symbol": "MRP",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mrp.png"
     },
     {
@@ -444,6 +489,7 @@
       "name": "Kuro",
       "symbol": "KURO",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/kuro.png"
     },
     {
@@ -452,6 +498,7 @@
       "name": "irancoin",
       "symbol": "iran",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/iran.png"
     },
     {
@@ -460,6 +507,7 @@
       "name": "Good Joob Coin",
       "symbol": "GJC",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/gjc.png"
     },
     {
@@ -468,6 +516,7 @@
       "name": "CNistari",
       "symbol": "CNI",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cni.png"
     },
     {
@@ -476,6 +525,7 @@
       "name": "Sapi Tempur",
       "symbol": "SPTMPR",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sptmpr.png"
     },
     {
@@ -484,6 +534,7 @@
       "name": "SONEDOGS",
       "symbol": "SDOG",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sodg.png"
     },
     {
@@ -492,6 +543,7 @@
       "name": "Sonic",
       "symbol": "Sonic",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sonic.png"
     },
     {
@@ -500,6 +552,7 @@
       "name": "CATS",
       "symbol": "CATS",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cats.png"
     },
     {
@@ -508,6 +561,7 @@
       "name": "BYT",
       "symbol": "BYT",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/byt.png"
     },
     {
@@ -516,6 +570,7 @@
       "name": "KABAB COIN",
       "symbol": "KBB",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/kbb.png"
     },
     {
@@ -524,6 +579,7 @@
       "name": "DOGI",
       "symbol": "$dogi",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/dogi.png"
     },
     {
@@ -532,6 +588,7 @@
       "name": "Sonifa",
       "symbol": "Sonifa",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sonifa.png"
     },
     {
@@ -540,6 +597,7 @@
       "name": "BACKPACK",
       "symbol": "BP",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/bp.png"
     },
     {
@@ -548,6 +606,7 @@
       "name": "Nava",
       "symbol": "nava",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nava.png"
     },
     {
@@ -556,6 +615,7 @@
       "name": "aguscute",
       "symbol": "ASE",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ase.png"
     },
     {
@@ -564,6 +624,7 @@
       "name": "LAND OF FIRE",
       "symbol": "LOF",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/lof.png"
     },
     {
@@ -572,6 +633,7 @@
       "name": "MargonoINU",
       "symbol": "MINU",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/minu.png"
     },
     {
@@ -580,6 +642,7 @@
       "name": "YUNO",
       "symbol": "YUNO",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/yuno.png"
     },
     {
@@ -588,6 +651,7 @@
       "name": "StoopidCat",
       "symbol": "SCT",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sct.png"
     },
     {
@@ -596,6 +660,7 @@
       "name": "PADUKA CATS",
       "symbol": "PDCATS",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pdcats.png"
     },
     {
@@ -604,6 +669,7 @@
       "name": "MINATO SWAP",
       "symbol": "MINSWAP",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/minswap.png"
     },
     {
@@ -612,6 +678,7 @@
       "name": "MINATO SWAP",
       "symbol": "MINSWAP",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/minswap.png"
     },
     {
@@ -620,6 +687,7 @@
       "name": "MONEY RECEH",
       "symbol": "RECEH",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/receh.png"
     },
     {
@@ -628,6 +696,7 @@
       "name": "Seifer",
       "symbol": "FFVIII",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ffviii.png"
     },
     {
@@ -636,6 +705,7 @@
       "name": "Moon",
       "symbol": "MN",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mn.png"
     },
     {
@@ -644,6 +714,7 @@
       "name": "RDWNMOWOW",
       "symbol": "RDWNM",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rdwnm.png"
     },
     {
@@ -652,6 +723,7 @@
       "name": "Milenium Soe",
       "symbol": "MMS",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mms.png"
     },
     {
@@ -660,6 +732,7 @@
       "name": "TUKONI KOPI",
       "symbol": "TKN",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/tkn.png"
     },
     {
@@ -668,6 +741,7 @@
       "name": "Hi token",
       "symbol": "HI",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/hi.png"
     },
     {
@@ -676,6 +750,7 @@
       "name": "SATANISM",
       "symbol": "STN",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/stn.png"
     },
     {
@@ -684,6 +759,7 @@
       "name": "GoldenEddie",
       "symbol": "GECoin",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/gecoin.png"
     },
     {
@@ -692,6 +768,7 @@
       "name": "Kimochi",
       "symbol": "YAMATE",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/yamate.png"
     },
     {
@@ -700,6 +777,7 @@
       "name": "Earlyapes",
       "symbol": "EAPS",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/eaps.png"
     },
     {
@@ -708,6 +786,7 @@
       "name": "Cute baby",
       "symbol": "Cby",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cby.png"
     },
     {
@@ -716,6 +795,7 @@
       "name": "Russia",
       "symbol": "Rus",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rus.png"
     },
     {
@@ -724,6 +804,7 @@
       "name": "GOAT",
       "symbol": "GOAT",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/goat.png"
     },
     {
@@ -732,6 +813,7 @@
       "name": "BONE",
       "symbol": "BONE",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/bone.png"
     },
     {
@@ -740,6 +822,7 @@
       "name": "KAIZU",
       "symbol": "KZU",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/kzu.png"
     },
     {
@@ -748,6 +831,7 @@
       "name": "MINABO",
       "symbol": "MNB",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mnb.png"
     },
     {
@@ -756,6 +840,7 @@
       "name": "Audrey Hepburn",
       "symbol": "AudreyCOIN",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/audreycoin.png"
     },
     {
@@ -764,6 +849,7 @@
       "name": "Mame",
       "symbol": "MAME",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mame.png"
     },
     {
@@ -772,6 +858,7 @@
       "name": "ASW",
       "symbol": "ASW",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/asw.png"
     },
     {
@@ -780,6 +867,7 @@
       "name": "JESSIE",
       "symbol": "JESS",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/jess.png"
     },
     {
@@ -788,6 +876,7 @@
       "name": "pinoti",
       "symbol": "pino",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pino.png"
     },
     {
@@ -796,6 +885,7 @@
       "name": "ALEMINO",
       "symbol": "AM",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/am.png"
     },
     {
@@ -804,6 +894,7 @@
       "name": "cowfrog",
       "symbol": "cof",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cof.png"
     },
     {
@@ -812,6 +903,7 @@
       "name": "Hepburn",
       "symbol": "AudreyCOIN",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/audreycoin.png"
     },
     {
@@ -820,6 +912,7 @@
       "name": "PIZZA",
       "symbol": "PIZZA",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pizza.png"
     },
     {
@@ -828,6 +921,7 @@
       "name": "SONYDOG",
       "symbol": "SONYDOG",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sonydog.png"
     },
     {
@@ -836,6 +930,7 @@
       "name": "Happy Worm",
       "symbol": "HWORM",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/hworm.png"
     },
     {
@@ -844,6 +939,7 @@
       "name": "TNMpro",
       "symbol": "TNMpro",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/tnmpro.png"
     },
     {
@@ -852,6 +948,7 @@
       "name": "miumiu",
       "symbol": "miu",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/miu.png"
     },
     {
@@ -860,6 +957,7 @@
       "name": "Vidol",
       "symbol": "Vidol",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/vidol.png"
     },
     {
@@ -868,6 +966,7 @@
       "name": "SONEY",
       "symbol": "SONEY",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/soney.png"
     },
     {
@@ -876,6 +975,7 @@
       "name": "bigbang",
       "symbol": "BIGbang",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/bigbang.png"
     },
     {
@@ -884,6 +984,7 @@
       "name": "Jesse",
       "symbol": "Pinkman",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pinkman.png"
     },
     {
@@ -892,6 +993,7 @@
       "name": "Eugene Krabs",
       "symbol": "KRABS",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/krabs.png"
     },
     {
@@ -900,6 +1002,7 @@
       "name": "forest",
       "symbol": "FST",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/fst.png"
     },
     {
@@ -908,6 +1011,7 @@
       "name": "CHASE",
       "symbol": "CHASE",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/chase.png"
     },
     {
@@ -916,6 +1020,7 @@
       "name": "salam petir",
       "symbol": "PTR",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ptr.png"
     },
     {
@@ -924,6 +1029,7 @@
       "name": "Racing Snail",
       "symbol": "RSN",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rsn.png"
     },
     {
@@ -932,6 +1038,7 @@
       "name": "MIUMIU",
       "symbol": "MIU",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/miunew.png"
     },
     {
@@ -940,6 +1047,7 @@
       "name": "Kali-B meme",
       "symbol": "XBM",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/xbm.png"
     },
     {
@@ -948,6 +1056,7 @@
       "name": "Nafas",
       "symbol": "Nafas",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nafas.png"
     },
     {
@@ -956,6 +1065,7 @@
       "name": "Coinacci",
       "symbol": "CNC",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cnc.png"
     },
     {
@@ -964,6 +1074,7 @@
       "name": "shakila uwu",
       "symbol": "SHA",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sha.png"
     },
     {
@@ -972,6 +1083,7 @@
       "name": "Careful",
       "symbol": "CRFL",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/crfl.png"
     },
     {
@@ -980,6 +1092,7 @@
       "name": "NVNMD",
       "symbol": "NVNMD",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nvnmd.png"
     },
     {
@@ -988,6 +1101,7 @@
       "name": "mardin",
       "symbol": "MAR",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mar.png"
     },
     {
@@ -996,6 +1110,7 @@
       "name": "ako",
       "symbol": "ako",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ako.png"
     },
     {
@@ -1004,6 +1119,7 @@
       "name": "Skull chain",
       "symbol": "Skull",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/skull.png"
     },
     {
@@ -1012,6 +1128,7 @@
       "name": "AURA",
       "symbol": "AUR",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/aur.png"
     },
     {
@@ -1020,6 +1137,7 @@
       "name": "indomaret",
       "symbol": "IDT",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/idt.png"
     },
     {
@@ -1028,6 +1146,7 @@
       "name": "RareSats",
       "symbol": "RST",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rst.png"
     },
     {
@@ -1036,6 +1155,7 @@
       "name": "OG Degen",
       "symbol": "OGD",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ogd.png"
     },
     {
@@ -1044,6 +1164,7 @@
       "name": "Interdimensional",
       "symbol": "ITDl",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/itdl.png"
     },
     {
@@ -1052,6 +1173,7 @@
       "name": "Woma Life Freedom",
       "symbol": "WomamLifeFreedom",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/womamlifefreedom.png"
     },
     {
@@ -1060,6 +1182,7 @@
       "name": "OWI",
       "symbol": "King Jav",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/king_jav.png"
     },
     {
@@ -1068,6 +1191,7 @@
       "name": "Drag",
       "symbol": "Drag",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/drag.png"
     },
     {
@@ -1076,6 +1200,7 @@
       "name": "VAIO",
       "symbol": "VAIO",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/vaio.png"
     },
     {
@@ -1084,6 +1209,7 @@
       "name": "NAHA",
       "symbol": "NAH",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nah.png"
     },
     {
@@ -1092,6 +1218,7 @@
       "name": "FREEDOM",
       "symbol": "FDM",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/fdm.png"
     },
     {
@@ -1100,6 +1227,7 @@
       "name": "Nun",
       "symbol": "NUN",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nun.png"
     },
     {
@@ -1108,6 +1236,7 @@
       "name": "Red",
       "symbol": "RED",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/red.png"
     },
     {
@@ -1116,6 +1245,7 @@
       "name": "AMSony",
       "symbol": "ASY",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/asy.png"
     },
     {
@@ -1124,6 +1254,7 @@
       "name": "cryptodrop2",
       "symbol": "crpd2",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/crpd2.png"
     },
     {
@@ -1132,6 +1263,7 @@
       "name": "IcyBerries",
       "symbol": "ICB",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/icb.png"
     },
     {
@@ -1140,6 +1272,7 @@
       "name": "Cat In Hat",
       "symbol": "CATINHAT",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/catinhat.png"
     },
     {
@@ -1148,6 +1281,7 @@
       "name": "MILK",
       "symbol": "MILK",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/milk.png"
     },
     {
@@ -1156,6 +1290,7 @@
       "name": "Freedom",
       "symbol": "FREEDOM",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/freedom.png"
     },
     {
@@ -1164,6 +1299,7 @@
       "name": "Roj",
       "symbol": "Roj",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/roj.png"
     },
     {
@@ -1172,6 +1308,7 @@
       "name": "MULYONO ASU",
       "symbol": "MASU",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/masu.png"
     },
     {
@@ -1180,6 +1317,7 @@
       "name": "MARIO",
       "symbol": "MARIO",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mario.png"
     },
     {
@@ -1188,6 +1326,7 @@
       "name": "REBIRTH",
       "symbol": "REBIRTH",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rebirth.png"
     },
     {
@@ -1196,6 +1335,7 @@
       "name": "BitQueen",
       "symbol": "BTQ",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/btq.png"
     },
     {
@@ -1204,6 +1344,7 @@
       "name": "einstenn",
       "symbol": "estn",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/estn.png"
     },
     {
@@ -1212,6 +1353,7 @@
       "name": "Nether Soul",
       "symbol": "NETHER",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nether.png"
     },
     {
@@ -1220,6 +1362,7 @@
       "name": "KEKE",
       "symbol": "KEKE",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/keke.png"
     },
     {
@@ -1228,6 +1371,7 @@
       "name": "Sigma cat",
       "symbol": "SIGMACAT",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sigmacat.png"
     },
     {
@@ -1236,6 +1380,7 @@
       "name": "Jembot",
       "symbol": "JMBT",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/jmbt.png"
     },
     {
@@ -1244,6 +1389,7 @@
       "name": "AWOOOO",
       "symbol": "AWO",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/awo.png"
     },
     {
@@ -1252,6 +1398,7 @@
       "name": "GIW",
       "symbol": "$GIW",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/gim.png"
     },
     {
@@ -1260,6 +1407,7 @@
       "name": "Pizza",
       "symbol": "pizza",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pizza1.png"
     },
     {
@@ -1268,6 +1416,7 @@
       "name": "Nurse",
       "symbol": "NURSE",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nurse.png"
     },
     {
@@ -1276,6 +1425,7 @@
       "name": "Fufufafa rakabuming",
       "symbol": "fufufafa",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/fufufafa.png"
     },
     {
@@ -1284,6 +1434,7 @@
       "name": "Love for all",
       "symbol": "LOVE",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/love.png"
     },
     {
@@ -1292,6 +1443,7 @@
       "name": "Gemz",
       "symbol": "GEMZ",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/gemz.png"
     },
     {
@@ -1300,6 +1452,7 @@
       "name": "man",
       "symbol": "man",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/man.png"
     },
     {
@@ -1308,6 +1461,7 @@
       "name": "IMposter",
       "symbol": "MPSTR",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mpstr.png"
     },
     {
@@ -1316,6 +1470,7 @@
       "name": "Among US Token",
       "symbol": "AMUGUS",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/amugus.png"
     },
     {
@@ -1324,6 +1479,7 @@
       "name": "dogs saya",
       "symbol": "ajg",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ajg.png"
     },
     {
@@ -1332,6 +1488,7 @@
       "name": "FaPe",
       "symbol": "FaPe",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/fape.png"
     },
     {
@@ -1340,6 +1497,7 @@
       "name": "Cat Gang",
       "symbol": "CAG",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/cag.png"
     },
     {
@@ -1348,6 +1506,7 @@
       "name": "Snapdragon",
       "symbol": "SDRG",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sdrg.png"
     },
     {
@@ -1356,6 +1515,7 @@
       "name": "Pixiecles",
       "symbol": "PIXIE",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/pixie.png"
     },
     {
@@ -1364,6 +1524,7 @@
       "name": "Hiraishin",
       "symbol": "HRS",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/hrs.png"
     },
     {
@@ -1372,6 +1533,7 @@
       "name": "amoozesh",
       "symbol": "azh",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/azh.png"
     },
     {
@@ -1380,6 +1542,7 @@
       "name": "BAD MOTHER FUCKER",
       "symbol": "BMF",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/bmf.png"
     },
     {
@@ -1388,6 +1551,7 @@
       "name": "Fren Soneium",
       "symbol": "Frens",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/frens.png"
     },
     {
@@ -1396,6 +1560,7 @@
       "name": "Mimonosuke",
       "symbol": "MIMO",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/mimo.png"
     },
     {
@@ -1404,6 +1569,7 @@
       "name": "GRU Finance",
       "symbol": "GRU",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/gru.png"
     },
     {
@@ -1412,6 +1578,7 @@
       "name": "Pepe Trump",
       "symbol": "PTRUMP",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ptrump.png"
     },
     {
@@ -1420,6 +1587,7 @@
       "name": "$RATS",
       "symbol": "RATS",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/rats.png"
     },
     {
@@ -1428,6 +1596,7 @@
       "name": "Abstract",
       "symbol": "ABS",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/abs.png"
     },
     {
@@ -1436,6 +1605,7 @@
       "name": "BERACHAIN",
       "symbol": "BERA",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/bera.png"
     },
     {
@@ -1444,6 +1614,7 @@
       "name": "Shinobi Inu",
       "symbol": "SHINU",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/shinu.png"
     },
     {
@@ -1452,6 +1623,7 @@
       "name": "AK",
       "symbol": "ASKII",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/askii.png"
     },
     {
@@ -1460,6 +1632,7 @@
       "name": "Sonefi Cat",
       "symbol": "SCAT",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/scat.png"
     },
     {
@@ -1468,6 +1641,7 @@
       "name": "Jembudut",
       "symbol": "JMBD",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/jmbd.png"
     },
     {
@@ -1476,6 +1650,7 @@
       "name": "NCH coin",
       "symbol": "NCHC",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/nchc.png"
     },
     {
@@ -1484,6 +1659,7 @@
       "name": "SpacyDino",
       "symbol": "spacy",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/spacy.png"
     },
     {
@@ -1492,6 +1668,7 @@
       "name": "MANTA",
       "symbol": "MANTA",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/manta.png"
     },
     {
@@ -1500,12 +1677,13 @@
       "name": "ccc",
       "symbol": "ccc",
       "decimals": 18,
+      "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ccc.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 58
+    "patch": 59
   }
 }
