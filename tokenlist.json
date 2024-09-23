@@ -27,27 +27,18 @@
     },
     {
       "chainId": 1946,
-      "address": "0x3ad2f5681f202C0057af321b2Cd66761ee8feeaa",
-      "name": "BTC",
-      "symbol": "BTC",
+      "address": "0x8cce37e4a9752dd313c5F842Da3e57C7a1519D92",
+      "name": "WBTC.s",
+      "symbol": "WBTC.s",
       "decimals": 18,
       "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/btc.png"
     },
     {
       "chainId": 1946,
-      "address": "0x95D31f15ec6dd1Dd43A8F4CdAc5694B211d66079",
-      "name": "USDT",
-      "symbol": "USDT",
-      "decimals": 18,
-      "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/usdt.png"
-    },
-    {
-      "chainId": 1946,
-      "address": "0xfF0CBFbA43a1Ce2B8d72B2f3121558BcBd4B03a6",
-      "name": "USDC",
-      "symbol": "USDC",
+      "address": "0x6F405A7fdc7b4B1Ffad1C821a6bA89f13b48c4F3",
+      "name": "USDC.s",
+      "symbol": "USDC.s",
       "decimals": 6,
       "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/usdc.png"
