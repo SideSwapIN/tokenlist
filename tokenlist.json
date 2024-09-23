@@ -54,19 +54,11 @@
     },
     {
       "chainId": 1946,
-      "address": "0xc2AD0DC1dCb095a49E3F1a2d0c4f63b16B2dC82C",
-      "name": "SoneFi Test Token",
-      "symbol": "SOE.t",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/soe.svg"
-    },
-    {
-      "chainId": 1946,
       "address": "0x5bD7A9D2328EFF28ba3261dD81CB3f4e4FDF221e",
       "name": "SOE",
       "symbol": "SOE",
       "decimals": 18,
-      "tag": "DeFi",
+      "tag": "DeFi, Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/soe.svg"
     },
     {
@@ -1675,6 +1667,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 60
+    "patch": 61
   }
 }
