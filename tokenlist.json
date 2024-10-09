@@ -63,6 +63,15 @@
     },
     {
       "chainId": 1946,
+      "address": "0x526c528B914402a27bF15A5E26571d3f9f7DcC5b",
+      "name": "Sone Stablecoin",
+      "symbol": "SONE",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/sone.png"
+    },
+    {
+      "chainId": 1946,
       "address": "0x054beBfeAc828d165C745b067829d652D3f6c65D",
       "name": "Final Fantasy",
       "symbol": "FF",
@@ -1667,6 +1676,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 61
+    "patch": 62
   }
 }
