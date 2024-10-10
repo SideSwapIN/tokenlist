@@ -1671,11 +1671,20 @@
       "decimals": 18,
       "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ccc.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xFE79e70Ca2c9C660B2ef4ab012B5CaBd47776AB8",
+      "name": "Zeno LEND",
+      "symbol": "ZL",
+      "decimals": 18,
+      "tag": "DeFi",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/zl.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 62
+    "patch": 63
   }
 }
