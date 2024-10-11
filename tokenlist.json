@@ -1,56 +1,70 @@
 {
-  "name": "Sideswap",
+  "name": "Kuririn",
   "logoURI": "https://raw.githubusercontent.com/KuririnTrade/Kuririn-Materials/main/logo/favicon.png",
   "keywords": [
-    "sideswap",
+    "kuririn",
     "defi"
   ],
-  "timestamp": "2024-08-26T08:00:00.000+00:00",
+  "timestamp": "2024-10-11T08:00:00.000+00:00",
   "tokens": [
     {
-      "chainId": 1802203764,
-      "address": "0x761612F0C8bdf8cF10e6F10045E2Ca7cbffBa8A3",
+      "chainId": 920637907288165,
+      "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
+      "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/weth.png"
     },
     {
-      "chainId": 1802203764,
-      "address": "0x7C77c6850b090D329ADC3415A874d8E890F6B8cb",
-      "name": "WBTC",
-      "symbol": "WBTC",
-      "decimals": 8,
+      "chainId": 920637907288165,
+      "address": "0xFC8fdf0BD1516A97bbe191E21597E813aF3f45D8",
+      "name": "WBTCk",
+      "symbol": "WBTCk",
+      "decimals": 18,
+      "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/btc.svg"
     },
     {
-      "chainId": 1802203764,
+      "chainId": 920637907288165,
       "address": "0x2BF1004D9e80ca087BD1e089d75bc8c471995aC1",
-      "name": "USDT",
-      "symbol": "USDT",
+      "name": "kUSDT",
+      "symbol": "kUSDT",
       "decimals": 6,
+      "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/usdt.png"
     },
     {
-      "chainId": 1802203764,
+      "chainId": 920637907288165,
       "address": "0x1B4C0bc8703D3af59322849bE01559fdb920c904",
-      "name": "USDC",
-      "symbol": "USDC",
+      "name": "kUSDC",
+      "symbol": "kUSDC",
       "decimals": 6,
+      "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/usdc.png"
     },
     {
-      "chainId": 1802203764,
-      "address": "0x73c53Cc976164C7c8fa57F86bd71c0922680cdF1",
+      "chainId": 920637907288165,
+      "address": "0x7D01487E08A9d5D0B427337A6676c697F48F2Eb5",
+      "name": "USDk",
+      "symbol": "USDk",
+      "decimals": 6,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/usdk.svg"
+    },
+    {
+      "chainId": 920637907288165,
+      "address": "0xC1a2D96c47413fbf70C544d0cb9EF9f21A0b5Fc9",
       "name": "KIN",
       "symbol": "KIN",
       "decimals": 18,
+      "tag": "Top, DeFi",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/kuririnTestnet/assets/kin.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
