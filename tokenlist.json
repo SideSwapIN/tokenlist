@@ -1680,11 +1680,20 @@
       "decimals": 18,
       "tag": "DeFi",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/zl.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x5D497A5bA52FA74b3Ad5A5700fc6EB6F1df8D577",
+      "name": "PAWS PAD",
+      "symbol": "PAWS",
+      "decimals": 18,
+      "tag": "Meme",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/paws.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 63
+    "patch": 64
   }
 }
