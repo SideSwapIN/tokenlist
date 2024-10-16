@@ -1689,11 +1689,38 @@
       "decimals": 18,
       "tag": "Meme",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/paws.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x5717D6A621aA104b0b4cAd32BFe6AD3b659f269E",
+      "name": "wstETH",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ .png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x26e6f7c7047252DdE3dcBF26AA492e6a264Db655",
+      "name": "ASTR",
+      "symbol": "ASTR",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/astr.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0xE9A198d38483aD727ABC8b0B1e16B2d338CF0391",
+      "name": "USDC.e",
+      "symbol": "USDC.e",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/usdc.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 64
+    "patch": 65
   }
 }
