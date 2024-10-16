@@ -1713,7 +1713,7 @@
       "address": "0xE9A198d38483aD727ABC8b0B1e16B2d338CF0391",
       "name": "USDC.e",
       "symbol": "USDC.e",
-      "decimals": 18,
+      "decimals": 6,
       "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/usdc.png"
     }
@@ -1721,6 +1721,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 66
+    "patch": 69
   }
 }
