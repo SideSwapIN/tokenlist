@@ -5,7 +5,7 @@
     "sideswap",
     "defi"
   ],
-  "timestamp": "2024-10-10T08:10:00.000+00:00",
+  "timestamp": "2024-10-16T08:10:00.000+00:00",
   "tokens": [
     {
       "chainId": 1946,
@@ -1697,7 +1697,7 @@
       "symbol": "wstETH",
       "decimals": 18,
       "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/ .png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/wsteth.png"
     },
     {
       "chainId": 1946,
@@ -1721,6 +1721,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 65
+    "patch": 66
   }
 }
